@@ -1,0 +1,11 @@
+#editContainer {
+        width: 994px;
+        height: 738px;
+        padding: 15px
+        margin-left: auto;
+        margin-right: auto;
+}
+
+#rightContainer {
+        margin-left: 676px;
+        position: absolute;
